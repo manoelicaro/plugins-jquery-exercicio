@@ -1,5 +1,11 @@
 ### Exercício Módulo 10 - Plugins jQuery
 
+A entrega deste exercício consiste em deixar o projeto disponível no link do GitHub funcional, com:
+
+- O carousel funcionando em slides;
+- A validação;
+- Máscaras operativas.
+
 ## Dicas
 
 - O carousel slick utiliza a ID do campo para atribuir funções.
